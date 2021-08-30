@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fundamentals" />
+        <module name="fundamentals2" />
+        <module name="fundamentals (1)" />
+        <module name="fundamentals (3)" />
+        <module name="fundamentals (2)" />
+        <module name="fundamentals (5)" />
+        <module name="fundamentals (4)" />
+        <module name="fundamentals (6)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fundamentals" target="1.5" />
+      <module name="fundamentals (1)" target="1.5" />
+      <module name="fundamentals (2)" target="1.5" />
+      <module name="fundamentals (3)" target="1.5" />
+      <module name="fundamentals (4)" target="1.5" />
+      <module name="fundamentals (5)" target="1.5" />
+      <module name="fundamentals (6)" target="1.5" />
+      <module name="fundamentals2" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/03/demos/Module3/fundamentals/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/Module3/fundamentals2/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/Module4/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/Module5/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/Module6/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/Module7/pom.xml" />
+        <option value="$PROJECT_DIR$/08/demos/Module8/pom.xml" />
+        <option value="$PROJECT_DIR$/09/demos/Module9/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="16" project-jdk-type="JavaSDK" />
+</project>

@@ -17,14 +17,26 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="fundamentals" target="1.5" />
-      <module name="fundamentals (1)" target="1.5" />
-      <module name="fundamentals (2)" target="1.5" />
-      <module name="fundamentals (3)" target="1.5" />
-      <module name="fundamentals (4)" target="1.5" />
-      <module name="fundamentals (5)" target="1.5" />
-      <module name="fundamentals (6)" target="1.5" />
-      <module name="fundamentals2" target="1.5" />
+      <module name="fundamentals" target="1.8" />
+      <module name="fundamentals (1)" target="1.8" />
+      <module name="fundamentals (2)" target="1.8" />
+      <module name="fundamentals (3)" target="1.8" />
+      <module name="fundamentals (4)" target="1.8" />
+      <module name="fundamentals (5)" target="1.8" />
+      <module name="fundamentals (6)" target="1.8" />
+      <module name="fundamentals2" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="fundamentals" options="-parameters" />
+      <module name="fundamentals (1)" options="-parameters" />
+      <module name="fundamentals (2)" options="-parameters" />
+      <module name="fundamentals (3)" options="-parameters" />
+      <module name="fundamentals (4)" options="-parameters" />
+      <module name="fundamentals (5)" options="-parameters" />
+      <module name="fundamentals (6)" options="-parameters" />
+      <module name="fundamentals2" options="-parameters" />
+    </option>
   </component>
 </project>

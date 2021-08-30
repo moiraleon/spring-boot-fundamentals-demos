@@ -54,6 +54,10 @@ public class TzaController {
         } catch (ApplicationNotFoundException exception) {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Application Not Found");
         }
+        //adding axception handling to API's
+        //moleon@MacBook-Pro-2 fundamentals2 % curl http://localhost:8080/tza/application/76
+        //{"timestamp":"2021-08-30T21:04:11.625+00:00","status":404,"error":"Not Found","path":"/tza/application/76"}%
+        // moleon@MacBook-Pro-2 fundamentals2 %
     }
 }
 

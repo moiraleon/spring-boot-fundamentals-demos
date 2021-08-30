@@ -56,3 +56,22 @@ public class TzaController {
         }
     }
 }
+
+//moleon@MacBook-Pro-2 ~ % cd Desktop/DevMountain/Java\ Specialization/
+//moleon@MacBook-Pro-2 Java Specialization % ls
+//08_16_2021Lab				java-collections-fundamentals
+//08_19_2021				java-fundamentals-demo
+//App.java				mars-java
+//Getting_Started_With_Java_Part_2	object-oriented-java-code
+//Program Files				object-oriented-programming-java
+//fundamentals				oo-practice-melons-java
+//fundamentals2				spring-big-picture
+//guessing-game-java			spring-boot-fundamentals
+//hello					spring-fundamentals
+//moleon@MacBook-Pro-2 Java Specialization % cd fundamentals2
+//moleon@MacBook-Pro-2 fundamentals2 % curl http://localhost:8080/tza/applications
+//{"timestamp":"2021-08-30T20:55:46.467+00:00","status":404,"error":"Not Found","path":"/tza/applications"}%                                                      moleon@MacBook-Pro-2 fundamentals2 % curl http:://localhost:8080/tza/ickets
+//curl: (3) URL using bad/illegal format or missing URL
+//moleon@MacBook-Pro-2 fundamentals2 % curl http:://localhost:8080/tza/application/1
+//curl: (3) URL using bad/illegal format or missing URL
+//moleon@MacBook-Pro-2 fundamentals2 %
